@@ -16,6 +16,7 @@ namespace CodeDom {
 
         static void Main(string[] args) {
 
+//User can input code Example: Console.WriteLine("Hello");
             while (true) {
                 Console.WriteLine("Code:");
                 Test1(Console.ReadLine());
@@ -35,6 +36,8 @@ namespace CodeDom {
             string SourceFooter = @"
                             }
                         }
+                        
+//Just a Test Class in Programm in a Programm
 
                         class Test {
 
@@ -44,12 +47,17 @@ namespace CodeDom {
 
                         }";
 
+
+//Build Source string
             string source = SourcHeader + code + SourceFooter;
 
             Console.WriteLine(source);
             Console.ReadLine();
 
             Assembly assembly = CompileSource(source);
+            
+//Runs the Run-Method defined through the IRun interface 
+//Look at source string
 
             IRun run = assembly?.CreateInstance("RunClass") as IRun;
 
@@ -60,6 +68,7 @@ namespace CodeDom {
         }
 
 
+//Compiles the source string using hardcore stuff
         private static Assembly CompileSource(string sourceCode) {
 
             CodeDomProvider cpd = new CSharpCodeProvider();
