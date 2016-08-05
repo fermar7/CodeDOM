@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDom", "CodeDom\CodeDom.csproj", "{C0F96FF9-153E-485E-AB18-0A0349864FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomLib", "DomLib\DomLib.csproj", "{59B198CE-4D4D-40C3-B413-B0E8BFDBCAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F96FF9-153E-485E-AB18-0A0349864FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F96FF9-153E-485E-AB18-0A0349864FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F96FF9-153E-485E-AB18-0A0349864FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F96FF9-153E-485E-AB18-0A0349864FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B198CE-4D4D-40C3-B413-B0E8BFDBCAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B198CE-4D4D-40C3-B413-B0E8BFDBCAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B198CE-4D4D-40C3-B413-B0E8BFDBCAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B198CE-4D4D-40C3-B413-B0E8BFDBCAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

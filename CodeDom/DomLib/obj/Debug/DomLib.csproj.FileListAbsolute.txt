@@ -1,0 +1,4 @@
+P:\MVWebsite\CodeDom\DomLib\bin\Debug\DomLib.dll
+P:\MVWebsite\CodeDom\DomLib\bin\Debug\DomLib.pdb
+P:\MVWebsite\CodeDom\DomLib\obj\Debug\DomLib.dll
+P:\MVWebsite\CodeDom\DomLib\obj\Debug\DomLib.pdb

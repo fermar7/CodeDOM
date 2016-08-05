@@ -1,0 +1,17 @@
+P:\MVWebsite\CodeDom\CodeDom\bin\Debug\CodeDom.exe.config
+P:\MVWebsite\CodeDom\CodeDom\bin\Debug\CodeDom.exe
+P:\MVWebsite\CodeDom\CodeDom\bin\Debug\CodeDom.pdb
+P:\MVWebsite\CodeDom\CodeDom\obj\Debug\CodeDom.csprojResolveAssemblyReference.cache
+P:\MVWebsite\CodeDom\CodeDom\obj\Debug\CodeDom.exe
+P:\MVWebsite\CodeDom\CodeDom\obj\Debug\CodeDom.pdb
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.exe.config
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.exe
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.pdb
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.exe
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.pdb
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\bin\Debug\DomLib.dll
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\bin\Debug\DomLib.pdb
+C:\Users\Marius-PC\Documents\Visual Studio 2015\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.csprojResolveAssemblyReference.cache
+P:\CodeDOM\CodeDom\CodeDom\bin\Debug\CodeDom.exe.config
+P:\CodeDOM\CodeDom\CodeDom\obj\Debug\CodeDom.exe
+P:\CodeDOM\CodeDom\CodeDom\obj\Debug\CodeDom.pdb
